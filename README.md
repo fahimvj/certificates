@@ -13,7 +13,7 @@ My current goal is to prepare and pass these courses-
 * [MS Excel](#ms-excel)
 * [Power Query](#power-query)
 * [SQL](#sql)
-* [Power BI](#power-bi-&-dax)
+* [Power BI](#power-bi)
 * [Tableau](#tableau)
 * [Google Analytics](#google-analytics)
 <br><br>
