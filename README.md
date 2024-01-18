@@ -23,10 +23,12 @@ My current goal is to prepare and pass these courses-
 <br><br>
 
 ## Data analysis
-<br>
+<br><br>
 
 ## Humanitarian Sector
+<br><br>
 ## United Nations
+<br><br>
 ## MS Excel
 <br><br>
 ## Power Query
