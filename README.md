@@ -8,7 +8,9 @@ My current goal is to prepare and pass these courses-
 3. IBM Data Analytics
 4. Google Advanced Data Analytics
 
-#My Linked Profile:  <a href="https://www.linkedin.com/in/fahimvj/">
+#My  Profile:  
+* <a href="https://www.linkedin.com/in/fahimvj/"> Linked In </a>
+* <a href="https://github.com/fahimvj/certificates"> Github </a>
 ## Browse certificates by skill:
 * [Data analysis](#data-analysis)
 * [MS Excel](#ms-excel)
