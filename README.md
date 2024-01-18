@@ -26,7 +26,6 @@ My current goal is to prepare and pass these courses-
 <br>
  <a href="https://www.coursera.org/account/accomplishments/verify/4PAU75T3UFMZ">1. Foundations Data, Data, Everywhere</a><br><br>
 <img src="https://github.com/fahimvj/certificates/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere.png" width="500">
-<br><br>
 <br>
 
 ## MS Excel
