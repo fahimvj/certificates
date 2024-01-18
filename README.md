@@ -1,6 +1,6 @@
 # Certificates
 Here you can find all the certificates I earned. While I learn for the skill, not the certificate, I still want to gather them here to show my effort and prove my determination. <br>
-I'm constantly working on improving my skills, especially in the fields of SQL and Power BI / DAX. I am currently working as a Senior Data Management Assistant for over 5 years and regularly trying to use new skills in my day-to-day tasks of data management. <br>
+I'm constantly working on improving my skills, especially in the fields of SQL and Power BI / DAX. I am currently working as a Senior Data Management Assistant for over 7 years and regularly trying to use new skills in my day-to-day tasks of data management. <br>
 <br>
 My current goal is to prepare and pass these courses-
 1. Google Data Analytics
