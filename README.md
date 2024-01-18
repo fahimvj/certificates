@@ -14,8 +14,9 @@ My current goal is to prepare and pass these courses-
 * [Power Query](#power-query)
 * [SQL](#sql)
 * [Power BI](#power-bi)
-* [Tableau](#tableau)
 * [Google Analytics](#google-analytics)
+* [Humanitarian Sector](#humanitarian-sector)
+* [United Nations](#united-nations)
 <br><br>
 
 ## Data analysis
@@ -26,8 +27,10 @@ My current goal is to prepare and pass these courses-
 <br><br>
 ## SQL
 <br><br>
-## Power BI
-<br><br>
 ## Tableau
 <br><br>
 ## Google Analytics
+<br><br>
+## Humanitarian Sector
+<br><br>
+## United Nations
