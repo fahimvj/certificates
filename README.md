@@ -24,7 +24,11 @@ My current goal is to prepare and pass these courses-
 
 ## Data analysis
 <br><br>
-
+## Google Analytics
+<be>
+1. <a href="https://www.coursera.org/account/accomplishments/verify/4PAU75T3UFMZ">Foundations Data, Data, Everywhere</a><br><br>
+<img src="https://github.com/fahimvj/certificates/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere.png" width="500">
+<br>
 ## Humanitarian Sector
 <br><br>
 ## United Nations
@@ -37,10 +41,6 @@ My current goal is to prepare and pass these courses-
 <br><br>
 ## Tableau
 <br><br>
-## Google Analytics
-<be>
-1. <a href="https://www.coursera.org/account/accomplishments/verify/4PAU75T3UFMZ">Foundations Data, Data, Everywhere</a><br><br>
-<img src="https://github.com/fahimvj/certificates/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere.png" width="500">
-<br>
+
  
 
