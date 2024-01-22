@@ -40,6 +40,7 @@ My current goal is to prepare and pass these courses-
 <img src="https://raw.githubusercontent.com/fahimvj/certificates/main/Prepare%2C%20Clean%2C%20Transform%2C%20and%20Load%20Data%20using.png" width="500">
 <br>
 <br><br>
+
 ## SQL
 <br><br>
 ## Humanitarian Sector
