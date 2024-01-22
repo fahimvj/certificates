@@ -13,11 +13,11 @@ My current goal is to prepare and pass these courses-
 * <a href="https://github.com/fahimvj/certificates"> Github </a>
 ## Browse certificates by skill:
 * [Data analysis](#data-analysis)
+* [Google Analytics](#google-analytics)
+* [Power BI](#power-bi)
 * [MS Excel](#ms-excel)
 * [Power Query](#power-query)
 * [SQL](#sql)
-* [Power BI](#power-bi)
-* [Google Analytics](#google-analytics)
 * [Humanitarian Sector](#humanitarian-sector)
 * [United Nations](#united-nations)
 <br><br>
@@ -29,6 +29,10 @@ My current goal is to prepare and pass these courses-
 1. <a href="https://www.coursera.org/account/accomplishments/verify/4PAU75T3UFMZ">Foundations Data, Data, Everywhere</a><br><br>
 <img src="https://github.com/fahimvj/certificates/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere.png" width="500">
 <br>
+## Power BI
+<br><br>
+## SQL
+<br><br>
 ## Humanitarian Sector
 <br><br>
 ## United Nations
@@ -37,8 +41,7 @@ My current goal is to prepare and pass these courses-
 <br><br>
 ## Power Query
 <br><br>
-## SQL
-<br><br>
+
 ## Tableau
 <br><br>
 
