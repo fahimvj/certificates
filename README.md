@@ -25,11 +25,19 @@ My current goal is to prepare and pass these courses-
 ## Data analysis
 <br><br>
 ## Google Analytics
-<be>
-1. <a href="https://www.coursera.org/account/accomplishments/verify/4PAU75T3UFMZ">Foundations Data, Data, Everywhere</a><br><br>
-<img src="https://github.com/fahimvj/certificates/blob/main/Foundations%20Data%2C%20Data%2C%20Everywhere.png" width="500">
+<br>
+1. <a href="https://coursera.org/share/d4c4496aa4a66ca0c7faf49fda663017">Foundations Data, Data, Everywhere</a><br><br>
+<img src="https://raw.githubusercontent.com/fahimvj/certificates/main/Foundations%20Data%2C%20Data%2C%20Everywhere.png" width="500">
 <br>
 ## Power BI
+<br>
+1. <a href="https://coursera.org/share/daccf81106b86ea20773b72a8fc570c2">Getting Started with Power BI Desktop</a><br><br>
+<img src="https://raw.githubusercontent.com/fahimvj/certificates/main/getting%20started%20with%20PBI%20Desktop.png" width="500">
+<br>
+<br>
+2. <a href="https://coursera.org/share/daccf81106b86ea20773b72a8fc570c2">Prepare, Clean, Transform, and Load Data using Power BI</a><br><br>
+<img src="https://raw.githubusercontent.com/fahimvj/certificates/main/Prepare%2C%20Clean%2C%20Transform%2C%20and%20Load%20Data%20using.png" width="500">
+<br>
 <br><br>
 ## SQL
 <br><br>
